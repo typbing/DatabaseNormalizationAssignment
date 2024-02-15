@@ -15,3 +15,8 @@ Process: 1.Create Related Tables, create a ParkFacilities table to store unique 
 4.update the Facilities table to set ParkFacilityID based on the corresponding FacilityID from ParkFacilities.
 5.remove redundant columns,FacilityName from the Facilities table.
 By separating the facility names into a separate table ParkFacilities and referencing them in the Facilities table, remove partial dependencies and ensure that each non-key attribute is fully functionally dependent on the primary key.
+
+![Alt text for the image](Facilities.png)
+![Alt text for the image](ParkFacilities.png)
+![Alt text for the image](Parks.png)
+![Alt text for the image](Parks_Info.png)
