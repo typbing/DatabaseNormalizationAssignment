@@ -20,4 +20,4 @@ By separating the facility names into a separate table ParkFacilities and refere
 ![Alt text for the image](ParkFacilities.png)
 ![Alt text for the image](Parks.png)
 ![Alt text for the image](Parks_Info.png)
-![Alt text for the image](Facilities.png)
+
